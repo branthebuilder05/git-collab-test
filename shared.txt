@@ -1,1 +1,1 @@
-Hello from user1 version 2
+Different message from user2
